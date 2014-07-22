@@ -1,0 +1,5 @@
+load("~/Documents/Dengue Vietnam data/Viet_dat.RData")
+centroids = unlist(list.data[1])
+incidence = unlist(list.dat[2])
+cases = unlist(list.dat[3])
+population = unlist(list.dat[4])
